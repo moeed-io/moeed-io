@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Muhammad Moeed 👋
 
-<!--
-**moeed-io/moeed-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Undergrad @ UMT**  
+💻 Interested in **Software Engineering**, **Algorithms**, and **Embedded Systems / IoT**  
+📍 Lahore, Pakistan  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+- **Languages:** C++, C#, Python, JavaScript, Bash
+- **Platforms & Tools:** Git, Arduino, ESP32, Unity, Linux
+
+---
+
+### 📊 GitHub Stats
+![Moeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=moeed-io&show_icons=true&theme=dark)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moeed-io&layout=compact&theme=dark)
+
+---
+
+### 📬 Connect with Me
+- **LinkedIn:** www.linkedin.com/in/muhammad-moeed-b61ab6351
+- **Portfolio / Email:** moeedraj867@gmail.com
