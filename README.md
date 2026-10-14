@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Moeed 👋
 
-🎓 **Computer Science Undergrad @ UMT**  
+🎓 **Computer Science Undergraduate @ UMT**  
 💻 Interested in **Software Engineering**, **Algorithms**, and **Embedded Systems / IoT**  
 📍 Lahore, Pakistan  
 
